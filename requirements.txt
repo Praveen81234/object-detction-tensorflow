@@ -1,0 +1,4 @@
+tensorflow>=2.5.0
+tensorflow_hub
+opencv-python
+matplotlib
